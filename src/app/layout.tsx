@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "X Bio Generator",
   description:
     "Let AI create your perfect Twitter bio! Just answer a few questions, and we'll craft one that truly represents you.",
-  metadataBase: new URL("https://twitter-ai-bio.vercel.app"),
+  metadataBase: new URL("https://biogenx.vercel.app"),
 };
 export default function RootLayout({
   children,
